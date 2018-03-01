@@ -34,7 +34,7 @@
 
 @font-face {
     font-family: 'Infinite Stroke';
-    src: url('https://github.com/TalhaKarim/dreamingUnicornFonts/blob/master/Infinite_Stroke.otf') format('woff2'),
+    src: url('https://github.com/TalhaKarim/dreamingUnicornFonts/blob/master/Infinite_Stroke.otf') format('otf'),
         url('https://github.com/TalhaKarim/dreamingUnicornFonts/blob/master/Infinite_Stroke.otf') format('woff');
     font-weight: normal;
     font-style: normal;
