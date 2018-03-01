@@ -27,7 +27,7 @@
 @font-face {
     font-family: 'Century Gothic';
     src: url('https://github.com/TalhaKarim/dreamingUnicornFonts/blob/master/GOTHICBI.woff') format('woff2'),
-        url('https://github.com/TalhaKarim/dreamingUnicornFonts/blob/master/GOTHICBI.woff') format('woff');
+        url('https://github.com/TalhaKarim/dreamingUnicornFonts/blob/master/GOTHICBI.woff?raw=true') format('woff');
     font-weight: bold;
     font-style: italic;
 }
