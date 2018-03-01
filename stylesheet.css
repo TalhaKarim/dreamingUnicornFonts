@@ -10,8 +10,8 @@
 
 @font-face {
     font-family: 'Century Gothic';
-    src: url('CenturyGothic.woff2') format('woff2'),
-        url('CenturyGothic.woff') format('woff');
+    src: url('https://github.com/TalhaKarim/dreamingUnicornFonts/blob/master/GOTHIC.TTF') format('woff2'),
+        url('https://github.com/TalhaKarim/dreamingUnicornFonts/blob/master/GOTHIC.TTF') format('woff');
     font-weight: normal;
     font-style: normal;
 }
@@ -34,8 +34,8 @@
 
 @font-face {
     font-family: 'Infinite Stroke';
-    src: url('InfiniteStroke.woff2') format('woff2'),
-        url('InfiniteStroke.woff') format('woff');
+    src: url('https://github.com/TalhaKarim/dreamingUnicornFonts/blob/master/Infinite_Stroke.otf') format('woff2'),
+        url('https://github.com/TalhaKarim/dreamingUnicornFonts/blob/master/Infinite_Stroke.otf') format('woff');
     font-weight: normal;
     font-style: normal;
 }
